@@ -1,0 +1,170 @@
+{
+    "data": [
+        {
+            "id_posisi": "a04cb029-9ab1-4d1d-96b9-4e566bb7916e",
+            "posisi": "Branch Business Development Intern",
+            "deskripsi_posisi": "Deskripsi:\nBertanggung jawab untuk mendukung pencapaian bisnis cabang Bank Mandiri dengan melakukan mapping dan eksekusi potensi bisnis di wilayah sekitar Cabang sesuai strategi Bank.\n\nTugas & Tanggung Jawab:\n- Meningkatan ekosistem digital Bank Mandiri melalui edukasi dan pemasaran digital transaction product, seperti Livin', Kopra, Livin' Merchant, dan EDC Bank Mandiri\n- Mendukung peningkatkan CASA (Current Account & Saving Account) baik dari nasabah eksisting maupun nasabah new to Bank\n- Mendukung pertumbuhan ekonomi pada sektor usaha kecil dan menengah melalui referal kredit mikro\n- Mendukung peningkatan akses layanan keuangan masyarakat melalui kegiatan promosi dan akuisisi Produk Bank\n- Mendukung kegiatan operasional cabang terkait dengan administrasi, dokumentasi dan pengarsipan\n- Menjaga kerahasiaan data nasabah dan informasi Bank sesuai dengan kode etik dan regulasi\n\nKriteria:\n- WNI\n- Fresh graduate atau satu tahun setelah lulus\n- S1 dari reputable university min. Akreditasi A/Unggul\n- S1 min. IPK 3,00 dan S2 min. IPK 3,25\n- S1 usia max. 24 dan S2 usia max. 26 \n- Berpenampilan professional\n- Memiliki kemampuan komunikasi yang baik\n- Bersedia tidak menikah selama program magang",
+            "syarat_khusus": null,
+            "usia_minimal": null,
+            "usia_maksimal": null,
+            "revisi": null,
+            "id_kondisi_fisik": null,
+            "id_program": "2be908d1-8503-40f1-9189-44d17f785d50",
+            "created_at": "2025-11-05 23:07:04",
+            "updated_at": "2025-11-07 17:44:18",
+            "kode_kbji": null,
+            "penempatan": null,
+            "id_jenis_kelamin": null,
+            "id_status_posisi": 2,
+            "jumlah_kuota": 1,
+            "jumlah_terdaftar": 0,
+            "program_studi": "[{\"id\":\"c13ae920-a48f-4a7c-8c89-2b286a7fc225\",\"title\":\"Akuntansi\"},{\"id\":\"a86f123a-2b95-4d24-b49d-174d3a639d91\",\"title\":\"Statistika\"},{\"id\":\"702dfd8b-b5b8-40fb-843b-4d503451b314\",\"title\":\"Ekonomi\"},{\"id\":\"2fee5a6d-a685-4a85-911b-5aa7e4980851\",\"title\":\"Teknik Industri\"},{\"id\":\"95dd752e-e00f-4431-90bf-58bdd324a48f\",\"title\":\"Ilmu Komunikasi\"}]",
+            "jenjang": "[\"Sarjana\"]",
+            "ref_status_posisi": {
+                "id_status_posisi": 2,
+                "nama_status_posisi": "Terverifikasi"
+            },
+            "program": {
+                "id_program": "2be908d1-8503-40f1-9189-44d17f785d50",
+                "id_sumber_dana": null,
+                "id_perusahaan": "f7f1501e-f998-4a9b-a6da-0234418332ce",
+                "id_jadwal": "48039861-1251-474e-86af-d904e829093b"
+            },
+            "perusahaan": {
+                "id_perusahaan": "f7f1501e-f998-4a9b-a6da-0234418332ce",
+                "id_desa": null,
+                "nama_perusahaan": "PT. Bank Mandiri (Persero) Kcp. Subang Cipeundeuy",
+                "deskripsi_perusahaan": null,
+                "alamat": "Jl. Raya Cipendeuy, RT.03 RW.01, Cipeundey, Subang",
+                "logo": null,
+                "banner": null,
+                "created_at": "2025-11-05 23:07:04",
+                "updated_at": "2025-11-07 17:44:18",
+                "kode_kabupaten": "3213",
+                "nama_kabupaten": "KAB. SUBANG",
+                "kode_provinsi": "32",
+                "nama_provinsi": "JAWA BARAT"
+            },
+            "jadwal": {
+                "id_jadwal": "48039861-1251-474e-86af-d904e829093b",
+                "angkatan": "2",
+                "tanggal_batas_pendaftaran": "2025-10-03 00:00:00",
+                "tanggal_mulai": "2025-11-24 00:00:00",
+                "tanggal_selesai": "2026-05-23 23:59:59",
+                "tahun": "2025",
+                "tanggal_rencana_mulai": "2025-10-24 00:00:00",
+                "tanggal_rencana_akhir": "2025-11-11 23:59:59",
+                "tanggal_seleksi_mulai": "2025-11-12 00:00:00",
+                "tanggal_seleksi_akhir": "2025-11-20 23:59:59",
+                "tanggal_usulan_mulai": "2025-10-01 00:00:00",
+                "tanggal_usulan_akhir": "2025-10-08 00:00:00",
+                "tanggal_persetujuan_awal": "2025-10-05 00:00:00",
+                "tanggal_persetujuan_akhir": "2025-10-06 00:00:00",
+                "tanggal_pendaftaran_awal": "2025-11-06 00:00:00",
+                "tanggal_pendaftaran_akhir": "2025-11-14 23:59:59",
+                "tanggal_pengumuman_mulai": "2025-11-14 00:00:00",
+                "tanggal_pengumuman_akhir": "2025-11-20 23:59:59",
+                "tanggal_lulus_awal": "2024-11-01 00:00:00",
+                "tanggal_lulus_akhir": "2025-10-31 00:00:00",
+                "publish": 1
+            },
+            "government_agency": {
+                "government_agency_name": null
+            },
+            "sub_government_agency": {
+                "sub_government_agency_name": null
+            }
+        },
+        {
+            "id_posisi": "a04cb33f-b168-4004-811a-2be1d50022cd",
+            "posisi": "Branch Business Development Intern",
+            "deskripsi_posisi": "Deskripsi:\nBertanggung jawab untuk mendukung pencapaian bisnis cabang Bank Mandiri dengan melakukan mapping dan eksekusi potensi bisnis di wilayah sekitar Cabang sesuai strategi Bank.\n\nTugas & Tanggung Jawab:\n- Meningkatan ekosistem digital Bank Mandiri melalui edukasi dan pemasaran digital transaction product, seperti Livin', Kopra, Livin' Merchant, dan EDC Bank Mandiri\n- Mendukung peningkatkan CASA (Current Account & Saving Account) baik dari nasabah eksisting maupun nasabah new to Bank\n- Mendukung pertumbuhan ekonomi pada sektor usaha kecil dan menengah melalui referal kredit mikro\n- Mendukung peningkatan akses layanan keuangan masyarakat melalui kegiatan promosi dan akuisisi Produk Bank\n- Mendukung kegiatan operasional cabang terkait dengan administrasi, dokumentasi dan pengarsipan\n- Menjaga kerahasiaan data nasabah dan informasi Bank sesuai dengan kode etik dan regulasi\n\nKriteria:\n- WNI\n- Fresh graduate atau satu tahun setelah lulus\n- S1 dari reputable university min. Akreditasi A/Unggul\n- S1 min. IPK 3,00 dan S2 min. IPK 3,25\n- S1 usia max. 24 dan S2 usia max. 26 \n- Berpenampilan professional\n- Memiliki kemampuan komunikasi yang baik\n- Bersedia tidak menikah selama program magang",
+            "syarat_khusus": null,
+            "usia_minimal": null,
+            "usia_maksimal": null,
+            "revisi": null,
+            "id_kondisi_fisik": null,
+            "id_program": "23d240de-fbff-458e-9c4f-65858d9a1e01",
+            "created_at": "2025-11-05 22:02:50",
+            "updated_at": "2025-11-07 17:53:18",
+            "kode_kbji": null,
+            "penempatan": null,
+            "id_jenis_kelamin": null,
+            "id_status_posisi": 2,
+            "jumlah_kuota": 1,
+            "jumlah_terdaftar": 0,
+            "program_studi": "[{\"id\":\"c13ae920-a48f-4a7c-8c89-2b286a7fc225\",\"title\":\"Akuntansi\"},{\"id\":\"a86f123a-2b95-4d24-b49d-174d3a639d91\",\"title\":\"Statistika\"},{\"id\":\"702dfd8b-b5b8-40fb-843b-4d503451b314\",\"title\":\"Ekonomi\"},{\"id\":\"2fee5a6d-a685-4a85-911b-5aa7e4980851\",\"title\":\"Teknik Industri\"},{\"id\":\"95dd752e-e00f-4431-90bf-58bdd324a48f\",\"title\":\"Ilmu Komunikasi\"}]",
+            "jenjang": "[\"Sarjana\"]",
+            "ref_status_posisi": {
+                "id_status_posisi": 2,
+                "nama_status_posisi": "Terverifikasi"
+            },
+            "program": {
+                "id_program": "23d240de-fbff-458e-9c4f-65858d9a1e01",
+                "id_sumber_dana": null,
+                "id_perusahaan": "ac649058-2833-485c-b889-5e83cc147957",
+                "id_jadwal": "48039861-1251-474e-86af-d904e829093b"
+            },
+            "perusahaan": {
+                "id_perusahaan": "ac649058-2833-485c-b889-5e83cc147957",
+                "id_desa": null,
+                "nama_perusahaan": "PT. Bank Mandiri (Persero) Kcp. Purwakarta Sadang",
+                "deskripsi_perusahaan": null,
+                "alamat": "Jl. Raya Sadang No.45, Kel. Cisereuh, Kec. Purwakarta, Kab. Purwakarta",
+                "logo": null,
+                "banner": null,
+                "created_at": "2025-11-05 22:02:50",
+                "updated_at": "2025-11-07 17:53:18",
+                "kode_kabupaten": "3214",
+                "nama_kabupaten": "KAB. PURWAKARTA",
+                "kode_provinsi": "32",
+                "nama_provinsi": "JAWA BARAT"
+            },
+            "jadwal": {
+                "id_jadwal": "48039861-1251-474e-86af-d904e829093b",
+                "angkatan": "2",
+                "tanggal_batas_pendaftaran": "2025-10-03 00:00:00",
+                "tanggal_mulai": "2025-11-24 00:00:00",
+                "tanggal_selesai": "2026-05-23 23:59:59",
+                "tahun": "2025",
+                "tanggal_rencana_mulai": "2025-10-24 00:00:00",
+                "tanggal_rencana_akhir": "2025-11-11 23:59:59",
+                "tanggal_seleksi_mulai": "2025-11-12 00:00:00",
+                "tanggal_seleksi_akhir": "2025-11-20 23:59:59",
+                "tanggal_usulan_mulai": "2025-10-01 00:00:00",
+                "tanggal_usulan_akhir": "2025-10-08 00:00:00",
+                "tanggal_persetujuan_awal": "2025-10-05 00:00:00",
+                "tanggal_persetujuan_akhir": "2025-10-06 00:00:00",
+                "tanggal_pendaftaran_awal": "2025-11-06 00:00:00",
+                "tanggal_pendaftaran_akhir": "2025-11-14 23:59:59",
+                "tanggal_pengumuman_mulai": "2025-11-14 00:00:00",
+                "tanggal_pengumuman_akhir": "2025-11-20 23:59:59",
+                "tanggal_lulus_awal": "2024-11-01 00:00:00",
+                "tanggal_lulus_akhir": "2025-10-31 00:00:00",
+                "publish": 1
+            },
+            "government_agency": {
+                "government_agency_name": null
+            },
+            "sub_government_agency": {
+                "sub_government_agency_name": null
+            }
+        }
+    ],
+    "meta": {
+        "pagination": {
+            "current_page": 789,
+            "first_page_url": null,
+            "from": 15761,
+            "last_page": 789,
+            "last_page_url": null,
+            "links": null,
+            "next_page_url": null,
+            "path": null,
+            "per_page": 20,
+            "prev_page_url": null,
+            "to": 15762,
+            "total": 15762
+        }
+    }
+}
