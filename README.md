@@ -1,5 +1,7 @@
 # Dataset Magang Kemnaker Batch 2
 
+Data diambil pada 10 November 2025
+
 ## 1 Latar Belakang
 
 
